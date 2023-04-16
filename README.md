@@ -1,2 +1,2 @@
-# Bootstrap project with Bootstrap Components
+# Bootstrap project with Bootstrap Components.
 <img src="images/Screenshot.png">
